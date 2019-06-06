@@ -1,0 +1,4 @@
+1. Добавить input type file
+2. добавить form enctype
+3. создается $files объект 5 ключей name, type, size, tmp_name, error
+4. использовать move_upload_file
